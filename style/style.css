@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(fontvert.png);
+    background-color: url(../img/fontvert.png);
     background-size:couver;
     background-position: center;
     font-family:sans-serif;
